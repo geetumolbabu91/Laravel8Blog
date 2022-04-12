@@ -1,4 +1,4 @@
-This application is built in limit time period as provided and hence only included basic functionalities and minimal design.
+This application is built in limit time period  and hence only included basic functionalities and minimal design.
 
 To replicate the work :
  1. Download the folder (built using laravel version 8.0)
@@ -17,4 +17,3 @@ Admin Portal
 1. Login, Logout
 
 
-Detailed Screenshot is provided in the file 'User_Manual.docx'
